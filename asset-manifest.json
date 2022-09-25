@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CalC/static/css/main.33e07cb1.css",
+    "main.css": "/CalC/static/css/main.8edd9ced.css",
     "main.js": "/CalC/static/js/main.9d64c248.js",
     "index.html": "/CalC/index.html",
-    "main.33e07cb1.css.map": "/CalC/static/css/main.33e07cb1.css.map",
+    "main.8edd9ced.css.map": "/CalC/static/css/main.8edd9ced.css.map",
     "main.9d64c248.js.map": "/CalC/static/js/main.9d64c248.js.map"
   },
   "entrypoints": [
-    "static/css/main.33e07cb1.css",
+    "static/css/main.8edd9ced.css",
     "static/js/main.9d64c248.js"
   ]
 }
